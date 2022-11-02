@@ -27,6 +27,13 @@ H2{
 h3{
   color: #66BFBF;
 }
+.content{
+  margin-left: 3rem;
+}
+.last{
+  font-family: cursive;
+  color:#66BFBF;
+}
 .foot{
 padding-top: 1rem;
 text-align: center;
